@@ -3,3 +3,5 @@ title: "Doot Tiny Games"
 markdown: kramdown
 
 premalink: /blogs/:year/:month/:day/:title
+
+url: https://dodoot.github.io
