@@ -4,3 +4,8 @@ markdown: kramdown
 
 url: https://dodoot.github.io
 permalink: /blogs/:year/:month/:day/:title
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
