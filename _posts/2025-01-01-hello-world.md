@@ -2,7 +2,7 @@
 
 layout: post
 
-title: "Hello World"
+title: "Coucou c'est mon post"
 date: 2025-01-01
 
 ---
